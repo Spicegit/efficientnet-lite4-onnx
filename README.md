@@ -2,4 +2,6 @@
 
 # Efficientnet-lite4 Example Application
 
+Echt "geili" Sach... ;)
+
 This is an example using ONNX Efficientnet-lite4 model.
